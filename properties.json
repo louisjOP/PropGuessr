@@ -1,0 +1,62 @@
+[
+  {
+    "id": "prop_001",
+    "title": "3-bed semi-detached house",
+    "town": "Sheffield",
+    "region": "South Yorkshire",
+    "bedrooms": 3,
+    "propertyType": "Semi-detached",
+    "askingPrice": 285000,
+    "imagePath": "images/house1.jpeg"
+  },
+  {
+    "id": "prop_002",
+    "title": "2-bed flat",
+    "town": "Walthamstow",
+    "region": "London",
+    "bedrooms": 2,
+    "propertyType": "Flat",
+    "askingPrice": 450000,
+    "imagePath": "images/house2.jpeg"
+  },
+  {
+    "id": "prop_003",
+    "title": "4-bed detached house",
+    "town": "Durham",
+    "region": "County Durham",
+    "bedrooms": 4,
+    "propertyType": "Detached",
+    "askingPrice": 375000,
+    "imagePath": "images/house3.jpeg"
+  },
+  {
+    "id": "prop_004",
+    "title": "3-bed terraced house",
+    "town": "Leeds",
+    "region": "West Yorkshire",
+    "bedrooms": 3,
+    "propertyType": "Terraced",
+    "askingPrice": 240000,
+    "imagePath": "images/house4.jpeg"
+  },
+  {
+    "id": "prop_005",
+    "title": "1-bed flat",
+    "town": "Bristol",
+    "region": "South West",
+    "bedrooms": 1,
+    "propertyType": "Flat",
+    "askingPrice": 225000,
+    "imagePath": "images/house5.jpeg"
+  },
+  {
+    "id": "prop_006",
+    "title": "5-bed detached house",
+    "town": "Harrogate",
+    "region": "North Yorkshire",
+    "bedrooms": 5,
+    "propertyType": "Detached",
+    "askingPrice": 690000,
+    "imagePath": "images/house6.jpeg"
+  }
+]
