@@ -1,62 +1,112 @@
 [
   {
     "id": "prop_001",
-    "title": "3-bed semi-detached house",
-    "town": "Sheffield",
-    "region": "South Yorkshire",
-    "bedrooms": 3,
-    "propertyType": "Semi-detached",
-    "askingPrice": 285000,
-    "imagePath": "images/house1.jpeg"
+    "title": "4-bed Detached",
+    "town": "Saltcoats",
+    "region": "Ayrshire",
+    "bedrooms": 4,
+    "propertyType": "Detached",
+    "askingPrice": 290000,
+    "imagePath": "images/Scotland1.jpeg"
   },
   {
     "id": "prop_002",
-    "title": "2-bed flat",
-    "town": "Walthamstow",
-    "region": "London",
-    "bedrooms": 2,
-    "propertyType": "Flat",
-    "askingPrice": 450000,
-    "imagePath": "images/house2.jpeg"
+    "title": "3-bed Terraced",
+    "town": "Wavertree",
+    "region": "Liverpool",
+    "bedrooms": 3,
+    "propertyType": "Terraced",
+    "askingPrice": 170000,
+    "imagePath": "images/Liverpool1.jpeg"
   },
   {
     "id": "prop_003",
-    "title": "4-bed detached house",
-    "town": "Durham",
-    "region": "County Durham",
-    "bedrooms": 4,
+    "title": "6-bed Detached",
+    "town": "Hale",
+    "region": "Greater Manchester",
+    "bedrooms": 6,
     "propertyType": "Detached",
-    "askingPrice": 375000,
-    "imagePath": "images/house3.jpeg"
+    "askingPrice": 9500000,
+    "imagePath": "images/Manchester1.jpeg"
   },
   {
     "id": "prop_004",
-    "title": "3-bed terraced house",
-    "town": "Leeds",
-    "region": "West Yorkshire",
+    "title": "3-bed Terraced",
+    "town": "Dinas Powys",
+    "region": "Cardiff",
     "bedrooms": 3,
     "propertyType": "Terraced",
-    "askingPrice": 240000,
-    "imagePath": "images/house4.jpeg"
+    "askingPrice": 450000,
+    "imagePath": "images/Cardiff1.jpeg"
   },
   {
     "id": "prop_005",
-    "title": "1-bed flat",
-    "town": "Bristol",
-    "region": "South West",
-    "bedrooms": 1,
-    "propertyType": "Flat",
-    "askingPrice": 225000,
-    "imagePath": "images/house5.jpeg"
+    "title": "12-bed Detached",
+    "town": "Edinburgh",
+    "region": "Edinburgh",
+    "bedrooms": 12,
+    "propertyType": "Detached",
+    "askingPrice": 3075000,
+    "imagePath": "images/Scotland2.jpeg"
   },
   {
     "id": "prop_006",
-    "title": "5-bed detached house",
-    "town": "Harrogate",
-    "region": "North Yorkshire",
+    "title": "6-bed Town House",
+    "town": "Knightsbridge",
+    "region": "London",
+    "bedrooms": 6,
+    "propertyType": "Town House",
+    "askingPrice": 38000000,
+    "imagePath": "images/London1.jpeg"
+  },
+  {
+    "id": "prop_007",
+    "title": "3-bed End of Terrace",
+    "town": "Oldbury",
+    "region": "Birmingham",
+    "bedrooms": 3,
+    "propertyType": "End of Terrace",
+    "askingPrice": 260000,
+    "imagePath": "images/Birmingham1.jpeg"
+  },
+  {
+    "id": "prop_008",
+    "title": "2-bed Flat",
+    "town": "Belfast",
+    "region": "County Antrim",
+    "bedrooms": 2,
+    "propertyType": "Flat",
+    "askingPrice": 44950,
+    "imagePath": "images/Belfast1.jpeg"
+  },
+  {
+    "id": "prop_009",
+    "title": "5-bed Detached",
+    "town": "Hull",
+    "region": "Yorkshire",
     "bedrooms": 5,
     "propertyType": "Detached",
-    "askingPrice": 690000,
-    "imagePath": "images/house6.jpeg"
+    "askingPrice": 1300000,
+    "imagePath": "images/Hull1.jpeg"
+  },
+  {
+    "id": "prop_010",
+    "title": "2-bed Terraced",
+    "town": "Sunderland",
+    "region": "Tyne and Wear",
+    "bedrooms": 2,
+    "propertyType": "Terraced",
+    "askingPrice": 89950,
+    "imagePath": "images/Sunderland1.jpeg"
+  },
+  {
+    "id": "prop_011",
+    "title": "4-bed Detached",
+    "town": "London",
+    "region": "London",
+    "bedrooms": 4,
+    "propertyType": "Detached",
+    "askingPrice": 1150000,
+    "imagePath": "images/London2.jpeg"
   }
 ]
